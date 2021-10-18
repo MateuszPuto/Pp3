@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Write\ a\ description\ of\ class\ Book\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ bookInfo()
+comment2.params=newDiscount
+comment2.target=void\ changeDiscount(double)
+comment3.params=
+comment3.target=void\ readBook()
+numComments=4
