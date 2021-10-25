@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\n\ Write\ a\ description\ of\ class\ BankAccount\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ printInfo()
+comment2.params=amount
+comment2.target=void\ bankTransfer(float)
+comment3.params=
+comment3.target=void\ addCard()
+numComments=4
