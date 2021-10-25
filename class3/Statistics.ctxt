@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=low\ high
+comment1.target=int\ itemsInRange(int,\ int)
+comment2.params=low\ high
+comment2.target=double\ sumInRange(int,\ int)
+comment3.params=low\ high
+comment3.target=double\ meanOfRange(int,\ int)
+numComments=4
