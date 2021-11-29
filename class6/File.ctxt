@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=File
+comment1.params=name
+comment1.target=File(java.lang.String)
+comment2.params=name\ size\ diskLocation
+comment2.target=File(java.lang.String,\ int,\ java.lang.String)
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=accessiable
+comment4.target=void\ setAccessRights(boolean)
+comment5.params=location
+comment5.target=void\ setDiskLocation(java.lang.String)
+comment6.params=
+comment6.target=void\ printInfo()
+comment7.params=
+comment7.target=java.lang.String\ getFile()
+numComments=8

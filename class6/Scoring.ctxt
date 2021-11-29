@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scoring
+comment1.params=names
+comment1.target=Scoring(java.lang.String[])
+comment2.params=
+comment2.target=void\ printJudges()
+comment3.params=name\ score
+comment3.target=boolean\ setScore(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ printCurrentScore()
+comment5.params=
+comment5.target=double\ getFinalScore()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=name
+comment1.target=Computer(java.lang.String)
+comment2.params=cores\ clockSpeed
+comment2.target=void\ setProcessor(int,\ double)
+comment3.params=mainMemorySize\ baseMemorySize
+comment3.target=void\ setMemory(int,\ int)
+comment4.params=graphicsCard
+comment4.target=void\ setGraphicsCard(java.lang.String)
+comment5.params=internetConnection
+comment5.target=void\ setInternetConnection(boolean)
+comment6.params=
+comment6.target=void\ printInfo()
+comment7.params=address\ times
+comment7.target=void\ ping(java.lang.String,\ int)
+numComments=8
