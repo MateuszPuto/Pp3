@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=fullname
+comment1.target=Writer(java.lang.String)
+comment2.params=name\ surname
+comment2.target=Writer(java.lang.String,\ java.lang.String)
+comment3.params=alias
+comment3.target=void\ setAlias(java.lang.String)
+comment4.params=age
+comment4.target=void\ setAge(int)
+comment5.params=book
+comment5.target=void\ addBook(Book)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+numComments=8
