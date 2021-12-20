@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CanChangeChannel
+comment1.params=
+comment1.target=void\ channelUp()
+comment2.params=
+comment2.target=void\ channelDown()
+comment3.params=channelNo
+comment3.target=void\ setChannel(int)
+numComments=4
