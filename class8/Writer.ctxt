@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=firstname\ lastname\ genre
+comment1.target=Writer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirstname()
+comment3.params=
+comment3.target=java.lang.String\ getLastname()
+comment4.params=
+comment4.target=java.lang.String\ getGenre()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

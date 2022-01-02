@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ebook
+comment1.params=title\ author\ filename
+comment1.target=Ebook(java.lang.String,\ Writer,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFilename()
+comment3.params=newFilename
+comment3.target=void\ setFilename(java.lang.String)
+comment4.params=endchar
+comment4.target=void\ display(char)
+numComments=5
