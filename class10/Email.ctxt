@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Email
+comment1.params=subject\ recipient\ message
+comment1.target=Email(User,\ User,\ java.lang.String)
+comment2.params=
+comment2.target=User\ getSubject()
+comment3.params=
+comment3.target=User\ getRecipient()
+comment4.params=newSubject
+comment4.target=void\ setSubject(User)
+comment5.params=newRecipient
+comment5.target=void\ setRecipient(User)
+comment6.params=
+comment6.target=void\ send()
+numComments=7

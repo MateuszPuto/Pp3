@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=plate\ licence\ wheels\ weight\ maxWeight\ owner
+comment1.target=Truck(java.lang.String,\ char,\ int,\ double,\ double,\ User)
+comment2.params=loadAmount
+comment2.target=void\ setLoadAmount(double)
+comment3.params=
+comment3.target=boolean\ load()
+comment4.params=
+comment4.target=double\ getFreeLoadSpace()
+numComments=5

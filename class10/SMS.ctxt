@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SMS
+comment1.params=user
+comment1.target=SMS(User)
+comment2.params=user\ message
+comment2.target=SMS(User,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPhone()
+comment4.params=phone
+comment4.target=void\ setPhone(java.lang.String)
+comment5.params=
+comment5.target=void\ send()
+numComments=6

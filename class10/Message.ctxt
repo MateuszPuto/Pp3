@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=
+comment1.target=Message()
+comment2.params=text
+comment2.target=Message(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment4.params=text
+comment4.target=void\ setText(java.lang.String)
+comment5.params=
+comment5.target=int\ charNumber()
+comment6.params=
+comment6.target=void\ send()
+numComments=7

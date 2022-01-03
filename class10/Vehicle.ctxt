@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=plate\ licence\ wheels\ weight
+comment1.target=Vehicle(java.lang.String,\ char,\ int,\ double)
+comment10.params=wheels
+comment10.target=void\ setWheels(int)
+comment11.params=
+comment11.target=void\ printInfo()
+comment2.params=
+comment2.target=boolean\ load()
+comment3.params=
+comment3.target=java.lang.String\ getPlate()
+comment4.params=newPlateNumber
+comment4.target=void\ setPlate(java.lang.String)
+comment5.params=
+comment5.target=char\ getLicence()
+comment6.params=newLicenceType
+comment6.target=void\ setLicence(char)
+comment7.params=
+comment7.target=double\ getWeight()
+comment8.params=weight
+comment8.target=void\ setWeight(double)
+comment9.params=
+comment9.target=int\ getWheels()
+numComments=12

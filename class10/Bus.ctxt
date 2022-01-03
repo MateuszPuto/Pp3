@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=plate\ licence\ wheels\ weight\ owner
+comment1.target=Bus(java.lang.String,\ char,\ int,\ double,\ User)
+comment2.params=
+comment2.target=boolean\ load()
+comment3.params=
+comment3.target=int\ getFreeSeats()
+numComments=4
