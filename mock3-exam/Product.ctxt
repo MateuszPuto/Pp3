@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ p
+comment2.target=Product(java.lang.String,\ float)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=float\ getPrice()
+comment5.params=other
+comment5.target=int\ compareTo(Product)
+numComments=6

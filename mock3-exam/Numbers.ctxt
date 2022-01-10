@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Numbers
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arr
+comment2.target=Numbers(int[])
+comment3.params=
+comment3.target=boolean\ ok()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Number
+comment1.params=
+comment1.target=void\ main()
+comment2.params=sys\ val
+comment2.target=Number(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ get10()
+comment4.params=
+comment4.target=int\ getSystem()
+comment5.params=newSystem
+comment5.target=void\ setSystem(int)
+comment6.params=
+comment6.target=java.lang.String\ getValue()
+comment7.params=newValue
+comment7.target=void\ setValue(java.lang.String)
+numComments=8
